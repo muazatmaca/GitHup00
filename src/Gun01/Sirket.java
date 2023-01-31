@@ -6,6 +6,6 @@ public class Sirket {
 
         System.out.println("Hi.." );
         System.out.println("Hatice" );
-
+        System.out.println("Sllllmmmm ");
     }
 }
